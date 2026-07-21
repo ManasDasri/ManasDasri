@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Manas</h1>
-<h3 align="center">Engineer · Fintech Enthusiast · Artist · Writer</h3>
 
 | **Engineer / Artist.** Building, breaking, and shipping. | [Portfolio](https://algorithmicbit.tech) · [LinkedIn](https://www.linkedin.com/in/manas-dasari-2a52163a5/) · [X](https://twitter.com/YOUR-HANDLE) · [LeetCode](https://leetcode.com/ManasDasari) · [Reddit](https://reddit.com/u/KenX049) · [Flow](https://flow-study-v2.onrender.com) |
 |---|---|
