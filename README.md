@@ -4,7 +4,6 @@
 
 I build things across code, markets, and words — CS undergrad
 
----
 
 ### About Me
 
