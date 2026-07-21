@@ -21,16 +21,6 @@ I build things across code, markets, and words — CS undergrad by day, fintech 
 
 Currently building **Flow**.
 
----
-
-### Currently Building
-
-| Project | Description |
-|---|---|
-| **Flow** | Virtual study room app — Express.js, Supabase, WebRTC, Cloudflare TURN |
-| _(add next project)_ | |
-
----
 
 ### Tech Stack
 
