@@ -39,19 +39,5 @@ Currently building **Flow**.
 ![Unix Shell](https://img.shields.io/badge/Shell%2FUnix-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=flat&logo=kde&logoColor=white)
 
----
-
-### GitHub Stats
-
-<p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ManasDasri&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasDasri&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManasDasri&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <p align="center"><i>always open to talking markets, code, or a good Linux rice!</i></p>
