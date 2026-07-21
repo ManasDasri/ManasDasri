@@ -4,7 +4,7 @@
 
 I build things across code, markets, and words — CS undergrad
 
-
+---
 ### About Me
 
 ▸ Building **Flow** · a virtual study room web app · Express.js, Supabase, WebRTC · real-time video over **Cloudflare Realtime TURN**  
@@ -18,7 +18,7 @@ I build things across code, markets, and words — CS undergrad
 
 Currently building **Flow**.
 
-
+---
 ### Tech Stack
 
 **Languages & Runtimes**
