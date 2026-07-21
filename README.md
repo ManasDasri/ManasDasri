@@ -2,7 +2,7 @@
 | **Engineer / Artist.** Building, breaking, and shipping. | [Portfolio](https://algorithmicbit.tech) · [LinkedIn](https://www.linkedin.com/in/manas-dasari-2a52163a5/) · [X](https://twitter.com/YOUR-HANDLE) · [LeetCode](https://leetcode.com/ManasDasari) · [Reddit](https://reddit.com/u/KenX049) · [Flow](https://flow-study-v2.onrender.com) |
 |---|---|
 
-I build things across code, markets, and words — CS undergrad by day, fintech tinkerer and occasional writer on the side.
+I build things across code, markets, and words — CS undergrad
 
 ---
 
@@ -39,5 +39,3 @@ Currently building **Flow**.
 ![Unix Shell](https://img.shields.io/badge/Shell%2FUnix-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=flat&logo=kde&logoColor=white)
 
-
-<p align="center"><i>always open to talking markets, code, or a good Linux rice!</i></p>
