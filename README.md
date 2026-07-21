@@ -7,7 +7,7 @@ I build things across code, markets, and words — CS undergrad
 ---
 ### About Me
 
-▸ Building **Flow, Atmos, StockQuant and many others** · a virtual study room web app · Express.js, Supabase, WebRTC · real-time video over **Cloudflare Realtime TURN**  
+▸ Building **Flow, Atmos, StockQuant**  and many other projects·  
 ▸ CS undergrad at **Amrita School of Engineering** · 5th semester  
 ▸ Fintech enthusiast: following markets, trading systems, and where finance meets software  
 ▸ Writing blogs and creating art, digitally 
