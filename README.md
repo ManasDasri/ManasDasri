@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-I build AI-native developer tools, coding agents, open-source infrastructure, and creative engineering systems.
+I build AI-ML tools and models, coding agents, open-source infrastructure, and financial modelling 
 
 * Creator of **[VengeanceUI](https://www.vengenceui.com/)**, an animated component library with 40K+ monthly visitors, 500K+ monthly page views, and 1000+ GitHub stars
 * **Sugar Labs Member and Code Owner** for **[Music Blocks](https://github.com/sugarlabs/musicblocks)**, maintaining core areas and reviewing contributions
