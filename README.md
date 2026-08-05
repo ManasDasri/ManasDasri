@@ -13,18 +13,13 @@
 
 I build AI-ML tools and models, coding agents, open-source infrastructure, and financial modelling 
 
-* Creator of **[VengeanceUI](https://www.vengenceui.com/)**, an animated component library with 40K+ monthly visitors, 500K+ monthly page views, and 1000+ GitHub stars
-* **Sugar Labs Member and Code Owner** for **[Music Blocks](https://github.com/sugarlabs/musicblocks)**, maintaining core areas and reviewing contributions
-* **[Caracal](https://github.com/Garudex-Labs/caracal) Member and Core Contributor**, contributing to the architecture and maintenance of an AI-agent security platform
-* Selected for the **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengenceui)**, Winter 2026 cohort
-* Selected for the **Claude for Open Source Program**, receiving Claude Max 20x support for six months
-* Selected for the **Mintlify OSS Program**, receiving Mintlify Pro support for open-source documentation
-* **GSoC 2026** with **[Sugar Labs](https://github.com/sugarlabs)**, building **Sugar Activity On Demand**
-* **LFX Mentorship 2026** with **[Caracal](https://github.com/Garudex-Labs/caracal)**, working on authorization, delegation, and policy enforcement for AI agents
-* **GSoC 2025** with **[KDE](https://github.com/kde)** and **[GCompris](https://github.com/gcompris/GCompris-qt)**, building GUI tools for teacher-focused dataset creation
-* **C4GT 2025** with **[Beckn](https://github.com/beckn)**, building AI voice-generation and zero-shot voice-cloning tools
-* Advanced to the first CodeSignal technical assessment stage of the **Anthropic Fellows Program 2026**
-* Authored **[100+ merged open-source pull requests](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across 12+ organizations, including Sugar Labs, Joplin, KDE, kgateway, FOSSology, and FOSSASIA
+* Building **ATLAS Finance Terminal**, a six-module financial analytics platform combining Groq and Finnhub for real-time market data and analysis
+* Building **Flow(https://flow-study-v2.onrender.com/)**, a fully decentralized, serverless real-time virtual study room connecting students globally without backend bottlenecks
+* Building **Atmos**, a Python + FastAPI system that simulates and optimizes air quality sensor placement using real-time WAQI data and traffic-weighted zone   analysis
+* Building **GigShield**, a parametric income protection platform for gig economy riders
+* Actively competing in hackathons and Kaggle competitions
+* Studying Computer Science Engineering at Aseb, focused on systems programming, AI, and quantitative finance
+* Currently working on an operating system from scratch alongside the above projects
 
 Currently working on **Flow**, **Atmos**, **3D Physics Engine**, and **Multiple Kaggle comps**.
 
