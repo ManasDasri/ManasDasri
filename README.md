@@ -13,15 +13,16 @@
 
 I build AI-ML tools and models, coding agents, open-source infrastructure, and financial modelling 
 
-* Building **ATLAS Finance Terminal**, a six-module financial analytics platform combining Groq and Finnhub for real-time market data and analysis
+* Building **Velora**, models stock terminal price distributions with Monte Carlo simulation (up to 1,000 paths), Geometric Brownian Motion, and a 3-state Markov chain
 * Building **<a href = "https://flow-study-v2.onrender.com/">Flow</a>**, a fully decentralized, serverless real-time virtual study room connecting students globally without backend bottlenecks
 * Building **Atmos**, a Python + FastAPI system that simulates and optimizes air quality sensor placement using real-time WAQI data and traffic-weighted zone   analysis
-* Building **GigShield**, a parametric income protection platform for gig economy riders
+* Building **An Optimised 3D Physics Engine**, from scratch
 * Actively competing in hackathons and Kaggle competitions
 * Studying Computer Science Engineering at Aseb, focused on systems programming, AI, and quantitative finance
 * Currently working on an operating system from scratch alongside the above projects
+* Writing dev vlogs at my free time: **<a href = "https://daily.dev/kenx049">daily.dev</a>**
 
-Currently working on **Flow**, **Atmos**, **3D Physics Engine**, and **Multiple Kaggle comps**.
+Currently working on **Flow**, **Atmos**, **3D Physics Engine**, and **Velora**.
 
 ### Tech Stack
 
