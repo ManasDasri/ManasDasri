@@ -53,5 +53,5 @@ Currently working on **Pulsar**, **DracoBrowser**, **Sugar Activity On Demand**,
 </p>
 
 <p align="center">
-  <img src="https://count.nixietube-1.com/@:ManasDasri" alt="Profile views" />
+  <img src="https://count.getloli.com/@:ManasDasri?theme=nixietube-1" alt="Profile views" />
 </p>
