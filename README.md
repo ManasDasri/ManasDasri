@@ -1,13 +1,12 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <strong>AI Engineer / Artist.</strong> Building, breaking, and shipping.
+      <strong>AI Engineer / Building, breaking, and experimenting.
     </td>
     <td align="right">
-      <a href="https://ashutoshx7.me/">Portfolio</a> ·
-      <a href="https://linkedin.com/in/ashutoshx7">LinkedIn</a> ·
-      <a href="https://x.com/Ashutosh_7x7">X</a> ·
-      <a href="https://www.vengenceui.com/">VengeanceUI</a>
+      <a href="https://algorithmicbit.tech/">Portfolio</a> ·
+      <a href="https://www.linkedin.com/in/manas-dasari-2a52163a5/">LinkedIn</a> ·
+      <a href="https://x.com/ManasDmg9">X</a> ·
     </td>
   </tr>
 </table>
@@ -54,5 +53,5 @@ Currently working on **Pulsar**, **DracoBrowser**, **Sugar Activity On Demand**,
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/@:ManasDasri" alt="Profile views" />
+  <img src="https://count.nixietube-1.com/@:ManasDasri" alt="Profile views" />
 </p>
