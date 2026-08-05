@@ -6,7 +6,7 @@
     <td align="right">
       <a href="https://algorithmicbit.tech/">Portfolio</a> ·
       <a href="https://www.linkedin.com/in/manas-dasari-2a52163a5/">LinkedIn</a> ·
-      <a href="https://x.com/ManasDmg9">X</a> ·
+      <a href="https://x.com/ManasDmg9">X</a>
     </td>
   </tr>
 </table>
@@ -53,5 +53,5 @@ Currently working on **Pulsar**, **DracoBrowser**, **Sugar Activity On Demand**,
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/@:ManasDasri?theme=nixietube-1" alt="Profile views" />
+  <img src="https://count.getloli.com/@:ManasDasri?theme=booru-lewd" alt="Profile views" />
 </p>
