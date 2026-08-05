@@ -14,7 +14,7 @@
 I build AI-ML tools and models, coding agents, open-source infrastructure, and financial modelling 
 
 * Building **ATLAS Finance Terminal**, a six-module financial analytics platform combining Groq and Finnhub for real-time market data and analysis
-* Building **<a href = "https://flow-study-v2.onrender.com/">Flow </a>**, a fully decentralized, serverless real-time virtual study room connecting students globally without backend bottlenecks
+* Building **<a href = "https://flow-study-v2.onrender.com/">Flow</a>**, a fully decentralized, serverless real-time virtual study room connecting students globally without backend bottlenecks
 * Building **Atmos**, a Python + FastAPI system that simulates and optimizes air quality sensor placement using real-time WAQI data and traffic-weighted zone   analysis
 * Building **GigShield**, a parametric income protection platform for gig economy riders
 * Actively competing in hackathons and Kaggle competitions
