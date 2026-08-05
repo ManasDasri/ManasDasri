@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <strong>AI Engineer / Building, breaking, and experimenting.
+      <strong>Engineer / Building, breaking, and experimenting.
     </td>
     <td align="right">
       <a href="https://algorithmicbit.tech/">Portfolio</a> ·
