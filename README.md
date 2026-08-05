@@ -20,7 +20,7 @@ I build AI-ML tools and models, coding agents, open-source infrastructure, and f
 * Actively competing in hackathons and Kaggle competitions
 * Studying Computer Science Engineering at Aseb, focused on systems programming, AI, and quantitative finance
 * Currently working on an operating system from scratch alongside the above projects
-* Writing dev vlogs at my free time: **<a href = "https://daily.dev/kenx049">daily.dev</a>**
+* Writing dev blogs in my free time! **<a href = "https://daily.dev/kenx049">daily.dev</a>**
 
 Currently working on **Flow**, **Atmos**, **3D Physics Engine**, and **Velora**.
 
