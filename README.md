@@ -7,6 +7,8 @@
       <a href="https://algorithmicbit.tech/">Portfolio</a> ·
       <a href="https://www.linkedin.com/in/manas-dasari-2a52163a5/">LinkedIn</a> ·
       <a href="https://x.com/ManasDmg9">X</a>
+      <a href ="https://www.kaggle.com/algorithmicbit">Kaggle</a>
+      <a href="https://daily.dev/kenx049">Daily_Dev</a>
     </td>
   </tr>
 </table>
