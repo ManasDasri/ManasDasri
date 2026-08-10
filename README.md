@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <strong>engineer / building, breaking, and experimenting.
+      <strong>engineer / building ML models and software tools, participating in hackathos, and experimenting with multiple concepts.
     </td>
     <td align="right">
       <a href="https://algorithmicbit.tech/">Portfolio</a> ·
