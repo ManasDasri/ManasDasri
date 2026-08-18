@@ -22,7 +22,7 @@ I build AI-ML tools and models, open-source infrastructure, financial models and
 * Actively competing in hackathons hosted by WeMakeDevs, Kaggle, Hack2Skill, Guidewire and many more
 * Studying Computer Science Engineering at Aseb, focused on systems programming, AI, and quantitative finance
 * Currently working on an operating system from scratch alongside the above projects
-* Writing dev blogs about tech, philosophy and finance - in my free time! **<a href = "https://daily.dev/kenx049">check them out here!</a>**
+* Writing dev blogs on the intersection of tech, philosophy and finance - **<a href = "https://daily.dev/kenx049">check them out here!</a>**
 
 Currently working on **Flow**, **Atmos**, **A 3D Physics Engine**, and **Velora**.
 
