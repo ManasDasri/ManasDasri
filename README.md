@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <strong>engineer / building, breaking and experimenting.
+      <strong>engineer // building, breaking and experimenting.
     </td>
     <td align="right">
       <a href="https://algorithmicbit.tech/">Portfolio</a> ·
@@ -13,18 +13,18 @@
   </tr>
 </table>
 
-I build AI-ML tools and model, coding agents, open-source infrastructure, financial models and software 
+I build AI-ML tools and models, open-source infrastructure, financial models and software 
 
+* Building **<a href = "https://flow-study.me/">Flow</a>**, a fully decentralized, serverless real-time virtual study room connecting students globally without backend bottlenecks
 * Building **Velora**, models stock terminal price distributions with Monte Carlo simulation (up to 1,000 paths), Geometric Brownian Motion, and a 3-state Markov chain
-* Building **<a href = "https://flow-study-v2.onrender.com/">Flow</a>**, a fully decentralized, serverless real-time virtual study room connecting students globally without backend bottlenecks
 * Building **Atmos**, a Python + FastAPI system that simulates and optimizes air quality sensor placement using real-time WAQI data and traffic-weighted zone   analysis
 * Building **An Optimised 3D Physics Engine**, from scratch
-* Actively competing in hackathons and Kaggle competitions
+* Actively competing in hackathons hosted by WeMakeDevs, Kaggle, Hack2Skill, Guidewire and many more
 * Studying Computer Science Engineering at Aseb, focused on systems programming, AI, and quantitative finance
 * Currently working on an operating system from scratch alongside the above projects
-* Writing dev blogs in my free time! **<a href = "https://daily.dev/kenx049">daily.dev</a>**
+* Writing dev blogs about tech, philosophy and finance - in my free time! **<a href = "https://daily.dev/kenx049">check them out here!</a>**
 
-Currently working on **Flow**, **Atmos**, **3D Physics Engine**, and **Velora**.
+Currently working on **Flow**, **Atmos**, **A 3D Physics Engine**, and **Velora**.
 
 ### Tech Stack
 
