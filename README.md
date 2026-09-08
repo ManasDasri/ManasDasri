@@ -14,6 +14,7 @@
 </table>
 
 I build AI-ML tools and models, open-source infrastructure, financial models and software
+
 Currently exploring Go, Visual Basic, Rust and Haskell
 
 * Building **<a href = "https://flow-study.me/">Flow</a>**, a fully decentralized, serverless real-time virtual study room connecting students globally without backend bottlenecks
