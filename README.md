@@ -26,7 +26,7 @@ Currently exploring Go, Visual Basic, Rust and Neural Networks
 * Currently working on an operating system from scratch alongside the above projects
 * Writing dev blogs on the intersection of tech, philosophy and finance - **<a href = "https://daily.dev/kenx049">check them out here!</a>**
 
-Currently working on **Flow**, **Atmos**, **A 3D Physics Engine**, and **Velora**.
+Currently working on **Flow**, **Atmos**, **A 3D Physics Engine**, **Velora** and **Fine-Tunining pre-trained models**
 
 ### Tech Stack
 
