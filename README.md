@@ -18,8 +18,7 @@ I build AI-ML tools and models, open-source infrastructure, financial models and
 Currently exploring Go, Visual Basic, Rust and Neural Networks
 
 * Building **<a href = "https://flow-study.me/">Flow</a>**, a fully decentralized, serverless real-time virtual study room connecting students globally without backend bottlenecks
-* Building **Sprout** Sprout is a directory tree that understands projects. Shows a pull request as a tree, and gives LLMs a compact project map and much more!
-  <a href = "https://sprout-devlabs.github.io/sprout-web/">check it out here!</a>
+* Building **<a href = "https://sprout-devlabs.github.io/sprout-web/">Sprout</a>**, a directory tree that understands projects. Shows a pull request as a tree, and gives LLMs a compact project map and much more!
 * Building **Velora**, models stock terminal price distributions with Monte Carlo simulation (up to 1,000 paths), Geometric Brownian Motion, and a 3-state Markov chain
 * Building **Atmos**, a Python + FastAPI system that simulates and optimizes air quality sensor placement using real-time WAQI data and traffic-weighted zone   analysis
 * Building **An Optimised 3D Physics Engine**, from scratch
