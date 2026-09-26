@@ -51,6 +51,16 @@ Currently working on **Flow**, **Sprout-CLI**, **A 3D Physics Engine**, **Velora
   <img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/PyTorch-161B22?style=flat&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-161B22?style=flat&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Astro-161B22?style=flat&logo=astro&logoColor=FFFFFF" alt="Astro" />
+  <img src="https://img.shields.io/badge/Go-161B22?style=flat&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/VB.NET-161B22?style=flat&logo=dotnet&logoColor=512BD4" alt="VB.NET" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-161B22?style=flat&logo=githubcopilot&logoColor=FFFFFF" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Cursor-161B22?style=flat&logo=cursor&logoColor=FFFFFF" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude_Code-161B22?style=flat&logo=anthropic&logoColor=D97757" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/MCP-161B22?style=flat&logo=anthropic&logoColor=FFFFFF" alt="MCP" />
+  <img src="https://img.shields.io/badge/Ollama-161B22?style=flat&logo=ollama&logoColor=FFFFFF" alt="Ollama" />
+  <img src="https://img.shields.io/badge/vLLM-161B22?style=flat&logo=vllm&logoColor=FFFFFF" alt="vLLM" />
+  <img src="https://img.shields.io/badge/Qiskit-161B22?style=flat&logo=qiskit&logoColor=FFFFFF" alt="Qiskit" />
 </p>
 
 <p align="center">
