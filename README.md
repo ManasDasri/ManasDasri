@@ -8,7 +8,7 @@
       <a href="https://www.linkedin.com/in/manas-dasari-2a52163a5/">LinkedIn</a> ·
       <a href="https://x.com/ManasDmg9">X</a> ·
       <a href ="https://www.kaggle.com/algorithmicbit">Kaggle</a> ·
-      <a href="https://reddit.com/u/KenX049">Reddit</a>
+      <a href="https://reddit.com/u/KenX049">Reddit</a> ·
       <a href = "https://sprout-devlabs.github.io/sprout-web/">Sprout</a>
     </td>
   </tr>
