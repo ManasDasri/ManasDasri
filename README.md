@@ -18,7 +18,7 @@ I build AI-ML tools and models, open-source infrastructure, financial models and
 
 Currently exploring Go, Visual Basic, Rust and Neural Networks
 
-* Building **<a href = "https://sprout-devlabs.github.io/sprout-web/">Sprout</a>**, **<a href = "https://flow-study.me/">Flow</a>**, **<a href="https://forme-amber.vercel.app/">Forme</a>**, **<a href = "https://gradientworksai.in/">Gradient Works</a> and **Atmos**
+* Building **<a href = "https://sprout-devlabs.github.io/sprout-web/">Sprout</a>**, **<a href = "https://flow-study.me/">Flow</a>**, **<a href="https://forme-amber.vercel.app/">Forme</a>**, **<a href = "https://gradientworksai.in/">Gradient Works</a>** and **Atmos**
 * Exploring **Systems Engineering**
 * Actively competing in hackathons hosted by WeMakeDevs, Kaggle, Hack2Skill, Guidewire and many more
 * Currently working on an operating system from scratch alongside the above projects
