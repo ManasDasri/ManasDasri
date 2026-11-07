@@ -18,10 +18,7 @@ I build AI-ML tools and models, open-source infrastructure, financial models and
 
 Currently exploring Go, Visual Basic, Rust and Neural Networks
 
-* Building **<a href = "https://sprout-devlabs.github.io/sprout-web/">Sprout</a>**, a directory tree that understands projects. Shows a pull request as a tree, and gives LLMs a compact project map and much more!
-* Building **<a href = "https://flow-study.me/">Flow</a>**, a fully decentralized, serverless real-time virtual study room connecting students globally without backend bottlenecks
-* Building **<a href="https://forme-amber.vercel.app/">Forme</a>**. A motion component studio for distinctive brand websites. React, TypeScript, and source you own
-* Building **Atmos**, a Python + FastAPI system that simulates and optimizes air quality sensor placement using real-time WAQI data and traffic-weighted zone   analysis
+* Building **<a href = "https://sprout-devlabs.github.io/sprout-web/">Sprout</a>**, **<a href = "https://flow-study.me/">Flow</a>**, **<a href="https://forme-amber.vercel.app/">Forme</a>**, **<a href = "https://gradientworksai.in/">Gradient Works</a> and **Atmos**
 * Exploring **Systems Engineering**
 * Actively competing in hackathons hosted by WeMakeDevs, Kaggle, Hack2Skill, Guidewire and many more
 * Currently working on an operating system from scratch alongside the above projects
