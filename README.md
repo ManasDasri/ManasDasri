@@ -16,7 +16,7 @@
 
 I build AI-ML tools and models, open-source infrastructure, financial models and software
 
-Currently exploring Go, Visual Basic, Rust and Neural Networks
+Currently exploring Go, Rust and Neural Networks
 
 * Building **<a href = "https://sprout-devlabs.github.io/sprout-web/">Sprout</a>**, **<a href = "https://flow-study.me/">Flow</a>**, **<a href="https://forme-amber.vercel.app/">Forme</a>**, **<a href = "https://gradientworksai.in/">Gradient Works</a>** and **Atmos**
 * Exploring **Systems Engineering**
