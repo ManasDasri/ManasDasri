@@ -1,6 +1,5 @@
 <a href="https://ghfind.com/u/manasdasri?ref=badge"><img src="https://ghfind.com/api/badge/manasdasri" alt="GitHub Roast score badge" /></a> · 
 <a href="https://gitranks.com/profile/ManasDasri"><img src="https://gitranks.com/badge/user/ManasDasri/tier.svg?by=contributions&amp;scheme=night&amp;logo=0" alt="ManasDasri on GitRanks: gitranks Pro"></a>
-[![RoleNest Verified Dev](https://img.shields.io/badge/Role%20Nest%20Dev%20Score-950%2F1000-10b981?style=for-the-badge&logo=github)](https://rolenest.in/dev-score?user=ManasDasri)
 <table width="100%">
   <tr>
     <td align="left">
@@ -29,6 +28,7 @@ Currently exploring Go, Rust and Neural Networks
 * Writing dev blogs on the intersection of tech, philosophy and finance - **<a href = "https://daily.dev/kenx049">check them out here!</a>**
 
 "Everything is born from change"
+[![RoleNest Verified Dev](https://img.shields.io/badge/Role%20Nest%20Dev%20Score-950%2F1000-10b981?style=for-the-badge&logo=github)](https://rolenest.in/dev-score?user=ManasDasri)
 
 ### Tech Stack
 
