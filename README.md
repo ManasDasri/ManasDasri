@@ -1,4 +1,4 @@
-<a href="https://ghfind.com/u/manasdasri?ref=badge"><img src="https://ghfind.com/api/badge/manasdasri" alt="GitHub Roast score badge" /></a> · 
+<a href="https://ghfind.com/u/manasdasri?ref=badge"><img src="https://ghfind.com/api/badge/manasdasri" alt="GitHub Roast score badge" /></a>. 
 <a href="https://gitranks.com/profile/ManasDasri"><img src="https://gitranks.com/badge/user/ManasDasri/tier.svg?by=contributions&amp;scheme=night&amp;logo=0" alt="ManasDasri on GitRanks: gitranks Pro"></a>
 <table width="100%">
   <tr>
