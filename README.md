@@ -1,4 +1,5 @@
 <a href="https://ghfind.com/u/manasdasri?ref=badge"><img src="https://ghfind.com/api/badge/manasdasri" alt="GitHub Roast score badge" /></a>
+![GitScore](https://gitscore.mateusz-szostak1.workers.dev/api/badge/ManasDasri)
 <table width="100%">
   <tr>
     <td align="left">
