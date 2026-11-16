@@ -28,7 +28,6 @@ Currently exploring Go, Rust and Neural Networks
 * Writing dev blogs on the intersection of tech, philosophy and finance - **<a href = "https://daily.dev/kenx049">check them out here!</a>**
 
 "Everything is born from change"
-[![RoleNest Verified Dev](https://img.shields.io/badge/Role%20Nest%20Dev%20Score-950%2F1000-10b981?style=for-the-badge&logo=github)](https://rolenest.in/dev-score?user=ManasDasri)
 
 ### Tech Stack
 
