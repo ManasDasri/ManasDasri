@@ -1,5 +1,4 @@
-
-[https://ghfind.com/api/card/mini/manasdasri?v=1794843725238]
+<a href="https://ghfind.com/u/manasdasri?ref=badge"><img src="https://ghfind.com/api/card/mini/manasdasri" alt="GitHub Roast score card" width="440" /></a>
 <table width="100%">
   <tr>
     <td align="left">
