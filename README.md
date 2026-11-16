@@ -1,8 +1,5 @@
 <a href="https://ghfind.com/u/manasdasri?ref=badge"><img src="https://ghfind.com/api/badge/manasdasri" alt="GitHub Roast score badge" /></a> · 
 <a href="https://gitranks.com/profile/ManasDasri"><img src="https://gitranks.com/badge/user/ManasDasri/tier.svg?by=contributions&amp;scheme=night&amp;logo=0" alt="ManasDasri on GitRanks: gitranks Pro"></a>
-<a href="https://gitarena.dev/u/ManasDasri">
-  <img src="https://gitarena.dev/api/badge/ManasDasri/pill?timeframe=total&theme=light&color=blue" alt="GitArena" height="28" />
-</a>
 <table width="100%">
   <tr>
     <td align="left">
