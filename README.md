@@ -1,4 +1,4 @@
-<a href="https://ghfind.com/u/manasdasri?ref=badge"><img src="https://ghfind.com/api/card/mini/manasdasri" alt="GitHub Roast score card" width="440" /></a>
+<a href="https://ghfind.com/u/manasdasri?ref=badge" style = "align:center"><img src="https://ghfind.com/api/card/mini/manasdasri" alt="GitHub Roast score card" width="440" /></a>
 <table width="100%">
   <tr>
     <td align="left">
